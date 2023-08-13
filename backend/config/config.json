@@ -1,0 +1,24 @@
+{
+  "development": {
+    "username": "admin",
+    "password": "ahmed01144",
+    "database": "database_development",
+    "host": "database-1.ckas55t5li1y.us-east-1.rds.amazonaws.com",
+    "dialect": "mysql"
+
+  },
+  "test": {
+    "username": "admin",
+    "password": "ahmed01144",
+    "database": "database_development",
+    "host": "database-1.ckas55t5li1y.us-east-1.rds.amazonaws.com",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "admin",
+    "password": "ahmed01144",
+    "database": "database_development",
+    "host": "database-1.ckas55t5li1y.us-east-1.rds.amazonaws.com",
+    "dialect": "mysql"
+  }
+}
